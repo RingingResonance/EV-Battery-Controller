@@ -8,9 +8,8 @@ dedicated BMS. The circuit provided should handle up to 30 amps with proper cool
 shut down the system on events such as under/over voltage, over current, temps out of range, etc.
 
 
-File EVBatteryCTRLv1.X.zip contains the source code for the firmware. Extract and open using MPLab IDE.
+File EVBatteryCTRLv1.X.zip contains the source code for the firmware. Extract and open using MPLab IDE. Current version is under debugging hell, but mostly work.
 
-File BTMSv3.zip contains schematic files for KiCad. This version is untested as of June 8th, 2020. I'm still waiting for my
-boards to come in the mail. ;)
+File BTMSv3.zip contains schematic files for KiCad. This version is currently under debugging hell. Voltage spikes get sent thoughout the system when the output gets ramped up, and new power saving feature is unusable/causes problems. Still working on a fix for this so I don't recommend using this design yet. ;)
 
 Enjoy!
