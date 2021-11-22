@@ -1,4 +1,9 @@
 # EV-Battery-Controller
+
+Deprecated, please use: https://github.com/RingingResonance/BTMSrev1
+This is not yet fully tested. Build at your own expense.
+
+
 Battery Charge/Discharge and Heater Controller for small electric vehicles.
 
 This system provides Battery telemetry services such as Voltage, Current, and Temperature. It also regulates charge/discharge
